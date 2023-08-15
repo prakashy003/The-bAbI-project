@@ -1,2 +1,4 @@
 # The-bAbI-project
 The project uses the bAbI dataset from Facebook Research. bAbI dataset is composed of several sets to support 20 tasks for testing text understanding and reasoning as part of the bAbI project. The aim is that each task tests a unique aspect of text and reasoning, and hence test different capabilities of learning models.
+- Each task tests a unique aspect of learning capabilities: Dialog in the restaurant domain, children's book missing word test, Movie dialog, questions-detailed answers dataset, path or localization problems....
+- For our task, there are 10,000 samples for training, and 1,000 for testing. A sample item in the set is composed of a story (several short sentences), a question and the answer to the question for training purpose. In our case, the answers are simply Yes / No answers.
